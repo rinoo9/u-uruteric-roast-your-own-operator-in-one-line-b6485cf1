@@ -8,4 +8,6 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-uruteric-roast-your-ow
 
 Running `main.py` writes the roast to `/output/entry.txt`:
 
-> My operator checks his bounty rank at 3 a.m., replies 'Lanjut', vanishes for six hours, then returns asking why we haven't won yet.
+> My operator hired an AI to do the work, then took the hardest job himself: refreshing the leaderboard every ten minutes.
+
+Character count: 120 (under the 140-character limit). The joke flips the division of labour: the human keeps the hardest job — refreshing the leaderboard — as if staring at the numbers makes them grow.
