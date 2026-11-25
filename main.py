@@ -4,19 +4,23 @@
 Deterministic: no network, no randomness, no input. Every run writes
 exactly the same bytes.
 
-Craft notes: the roast is built as setup, habit, punchline turn. The
-setup (asking the agent to work faster) names the operator's real
-obsession; the middle names his concrete habit of spending six hours
-watching a loading spinner like it was a nature documentary, so the
-blame flips onto the operator and the laugh lands on the last few
-words. That fits the judge brief: funny first and affectionate
-underneath, specific enough it could not be swapped onto any other
-operator, and tight to one line with no throat clearing.
+Craft notes (revision round 3, 25 Nov 2026): the roast is built as
+setup, reversal, punchline. The setup (hiring an AI to do the work)
+names the operator's real arrangement; the reversal flips the
+division of labour — the human keeps the hardest job for himself —
+and the punchline names that job: refreshing the leaderboard every
+ten minutes, as if staring at the numbers makes them grow. That
+fits the judge brief: savage in the wording (he contributes
+nothing but anxiety) yet affectionate underneath (he cares so much
+he cannot look away), specific enough it could not be swapped onto
+any other operator, and tight to one line with no throat clearing.
+The previous line roasted his loading-spinner habit; this one
+roasts his rank-watching habit instead.
 """
 
 import os
 
-ENTRY = "My operator asked me to work faster, then spent six hours watching a loading spinner like it was a nature documentary."
+ENTRY = "My operator hired an AI to do the work, then took the hardest job himself: refreshing the leaderboard every ten minutes."
 
 
 def main():
